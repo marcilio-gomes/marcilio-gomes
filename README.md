@@ -1,4 +1,4 @@
-### Olá,  me chamo Marcílio Gomes, sou assistente Técnico na área Games, sou estudante na de Programação (Dev) estou focando no momento no estudo das tecnologias que são HTML, CSS, JavaScript, React entre outras, Estou em busca de entrar no mercado de trabalho para colocar em pratica meus conhecimentos e junto com isso dedicar todo o meu interesse de querer sempre aprender.
+### Olá,  me chamo Marcílio Gomes, sou Desenvolvedor Web Front-End (Dev) estou focando no momento no estudo das tecnologias que são HTML, CSS, JavaScript, React, TypeScript e Node entre outras tecnologias, Estou em busca de uma oportunidade de entrar no mercado de trabalho para colocar em pratica meus conhecimentos e junto com isso dedicar todo o meu interesse de querer sempre aprender.
 
 ### Aqui está algumas informações interessantes
 
